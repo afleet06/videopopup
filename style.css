@@ -82,9 +82,9 @@ body
 .clip
 
 {
-    position: relative;top: 7px; left: 7px;
+    position: fixed;
     top: 50%;
-    left: 50%;
+    left: 30%;
     transform: translate(-50%,-50%) scale(0);
     width: 90%;
     height: 70%;
