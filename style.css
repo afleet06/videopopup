@@ -117,7 +117,7 @@ body
 .clip .close 
 
 {
-    position: absolute;
+    position: fixed;
     top: 39px;
     right: 3px;
     cursor: pointer;
