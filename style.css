@@ -82,11 +82,11 @@ body
 .clip
 
 {
-    position: fixed;
+    position: relative;top: 4px; left: 4px;
     top: 50%;
     left: 50%;
     transform: translate(-50%,-50%) scale(0);
-    width: 70%;
+    width: 90%;
     height: 70%;
     display:flex;
     justify-content: center;
