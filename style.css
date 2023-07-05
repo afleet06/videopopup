@@ -83,8 +83,8 @@ body
 
 {
     position: fixed;
-    top: 50%;
-    left: 43%;
+    top: 40%;
+    left: 50%;
     transform: translate(-50%,-50%) scale(0);
     width: 90%;
     height: 70%;
