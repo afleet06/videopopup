@@ -118,7 +118,7 @@ body
 
 {
     position: absolute;
-    bottom: 4px;
+    top: 4px;
     left: 30px;
     cursor: pointer;
     font-weight: 500;
